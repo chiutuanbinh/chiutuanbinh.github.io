@@ -1,3 +1,7 @@
 layout: page
 title: "CHIU TUAN BINH PAGE"
-permalink: /
+permalink: /about
+
+---
+
+# About me
